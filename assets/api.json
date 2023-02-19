@@ -1,0 +1,139 @@
+// 20220804214311
+// https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=c97a90d2ea0343a69d89f321b38e253e
+
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Monkeypox: US declares outbreak a public health emergency",
+      "description": "The decision is expected to speed up the distribution of vaccines, treatments and federal resources.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62424157",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/142DA/production/_126205628_hi077790911.jpg",
+      "publishedAt": "2022-08-04T20:07:24.5296253Z",
+      "content": "The US government has declared the monkeypox outbreak a public health emergency following a spike in cases.\r\nThe decision will speed up the distribution of vaccines, treatments and federal resources … [+2244 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Where does Taiwan crisis leave Biden's China policy?",
+      "description": "Nancy Pelosi's visit was an explosive development in a brittle relationship. Many risks lie ahead.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62426827",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/529E/production/_126205112_gettyimages-1239599121.jpg",
+      "publishedAt": "2022-08-04T19:07:21.4987632Z",
+      "content": "By Barbara Plett UsherBBC State Department correspondent\r\nNancy Pelosi's visit to Taiwan has left Joe Biden with a serious headache as tries to manage ties with America's biggest global rival. Analys… [+4565 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Workers in Iraq get day off as temperatures pass 50C",
+      "description": "A heatwave has been ongoing since mid-July with temperatures above 50C in some areas.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-62426302",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3016/production/_126201321_gettyimages-1242013039.jpg",
+      "publishedAt": "2022-08-04T16:07:18.9046156Z",
+      "content": "State employees in many parts of Iraq have been given a day off work as temperatures rise to above 50C (122F) in several areas, local media report.\r\nSeveral of the country's cities topped the list of… [+1253 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Griner given nine-year jail term on drug charges",
+      "description": "US basketball star Brittney Griner given nine-year jail sentence on drug charges by Russian court",
+      "url": "http://www.bbc.co.uk/news/world-europe-62427635",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2022-08-04T15:37:21.467509Z",
+      "content": "This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version."
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "US police charged over death of Breonna Taylor",
+      "description": "US charges four police officers over the death of Breonna Taylor, a black woman shot dead during a raid on her home",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-62427546",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2022-08-04T15:22:22.2954255Z",
+      "content": "US charges four police officers over the death of Breonna Taylor, a black woman shot dead during a raid on her home"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Migrants targeted in South Africa after gang rape outrage",
+      "description": "A mob sets fire to homes a week after migrants are accused of raping eight women.",
+      "url": "http://www.bbc.co.uk/news/world-africa-62423899",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BF7C/production/_126202094_whatsappimage2022-08-04at12.25.17pm.jpg",
+      "publishedAt": "2022-08-04T14:52:26.1091944Z",
+      "content": "By Nomsa MasekoBBC News, Johannesburg\r\nResidents of a South African township near Johannesburg have set ablaze the homes of migrants they believe are illegally working in disused local mines.\r\nThere … [+2328 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "China's missiles 'imitating North Korea' - Taiwan",
+      "description": "China launched 11 ballistic missiles into the sea around Taiwan's coast, Taiwan says.",
+      "url": "http://www.bbc.co.uk/news/world-asia-62419858",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DCB3/production/_126199465_gettyimages-1242296904.jpg",
+      "publishedAt": "2022-08-04T12:22:16.7486877Z",
+      "content": "By Alys DaviesBBC News\r\nMedia caption, Watch: Loud bangs heard and helicopters seen from Pingtan Island\r\nTaiwan has accused China of imitating North Korea by firing missiles into the sea around the i… [+3618 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "French sailor survives 16 hours in capsized boat in Atlantic",
+      "description": "The 62-year-old French sailor survived thanks to an air bubble before being rescued by divers.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62413556",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/150CB/production/_126191268_39e7a109423abd70dcc3c0ba0a577d7304a1faad0_0_1024_7681000x750.jpg",
+      "publishedAt": "2022-08-04T10:22:24.4052189Z",
+      "content": "By Malu CursinoBBC News\r\nA 62-year-old French man survived for 16 hours at sea by using an air bubble inside his boat after it capsized.\r\nThe 12-metre vessel, which had set sail from Portugal's capit… [+2057 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Iceland volcano was so beautiful, I had a little cry",
+      "description": "A volcano erupts near Iceland's capital Reykjavik spewing lava and smoke.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62419427",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2237/production/_126195780_p0cr0ctv.jpg",
+      "publishedAt": "2022-08-04T08:22:21.3114738Z",
+      "content": "A volcano has erupted in Iceland near the capital Reykjavik.\r\nIt's created a spectacle for tourists who have travelled to see the red-hot lava in the valley of Meradalir.\r\nOne woman was so mesmerised… [+66 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Viktor Orban alone in Europe but among friends in Texas",
+      "description": "The controversial Hungarian leader will be warmly received when he addresses US Republicans.",
+      "url": "http://www.bbc.co.uk/news/world-europe-62408368",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B823/production/_126193174_orban_getty.png",
+      "publishedAt": "2022-08-03T21:37:17.6257468Z",
+      "content": "By Nick ThorpeBBC News, Budapest\r\nHungarian Prime Minister Viktor Orban may have alienated his EU neighbours, who accuse him of undermining democracy, but he will get a warm reception thousands of mi… [+10188 chars]"
+    }
+  ]
+}
